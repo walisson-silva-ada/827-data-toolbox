@@ -1,4 +1,8 @@
 */Base.ipynb
 Exercícios/
 
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*checkpoint.ipynb
+
 02.\ Pandas/2.2*
